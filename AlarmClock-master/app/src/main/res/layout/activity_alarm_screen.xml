@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <TextView 
+        android:id="@+id/alarm_screen_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="True"
+        android:layout_centerHorizontal="True"
+        android:layout_marginTop="28dp"
+        android:text="@string/alarm"
+        android:textSize="38dp"/>
+    
+    <TextView 
+        android:id="@+id/alarm_screen_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/time_default"
+        android:textSize="52dp"
+        android:layout_centerHorizontal="True"
+        android:layout_below="@+id/alarm_screen_title"
+        android:layout_marginTop="28dp"/>
+    
+    <TextView
+        android:id="@+id/alarm_screen_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/alarm_screen_dismiss"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp"
+        android:text="@string/alarm_name" />
+
+
+    <!--button dismiss-->
+    <Button 
+        android:id="@+id/alarm_screen_dismiss"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="True"
+        android:text="@string/dismiss"
+        android:textSize="38dp"
+        android:layout_centerHorizontal="True"
+        android:layout_marginBottom="106dp"/>
+   
+
+</RelativeLayout>

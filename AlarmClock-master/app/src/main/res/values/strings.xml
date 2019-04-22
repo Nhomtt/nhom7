@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alarm Clock</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="time_default">00 : 00</string>
+
+     <!--alarm_screen-->
+    <string name="alarm">Alarm!</string>
+    <string name="default1">default</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="alarm_name">Alarm name</string>
+
+    <!--details-->
+    <string name="details_alarm_name">Alarm Name</string>
+    <string name="details_repeat_weekly">Repeat Weekly</string>
+    <string name="details_sunday">Sunday</string>
+    <string name="details_monday">Monday</string>
+    <string name="details_tuesday">Tuesday</string>
+    <string name="details_wednesday">Wednesday</string>
+    <string name="details_thursday">Thursday</string>
+    <string name="details_friday">Friday</string>
+    <string name="details_saturday">Saturday</string>
+    <string name="details_alarm_tone">Alarm Tone</string>
+    <string name="details_alarm_tone_default">Select an alarm tone</string>
+    <!--main-->
+
+    <!--list-->
+
+    <!--list_item-->
+
+</resources>
