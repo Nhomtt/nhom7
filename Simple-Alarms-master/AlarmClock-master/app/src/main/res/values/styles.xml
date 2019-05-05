@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <!--<item name="catalogToolbarStyle">@style/Widget.Catalog.Toolbar</item>-->
+        <!--<item name="catalogToolbarWithCloseButtonStyle">@style/Widget.Catalog.Toolbar.WithCloseButton-->
+        <!--</item>-->
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="Divider" parent="AppBaseTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">?android:attr/listDivider</item>
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+
+    <!--Bottom Navigation-->
+
+    <style name="BottomNavigationView">
+        <item name="itemTextAppearanceActive">@style/TextAppearance.BottomNavigationView.Active
+        </item>
+        <item name="itemTextAppearanceInactive">
+            @style/TextAppearance.BottomNavigationView.Inactive
+        </item>
+    </style>
+
+    <!-- blank styles for better code readability-->
+    <style name="TextAppearance" />
+
+    <style name="TextAppearance.BottomNavigationView" />
+
+    <!-- inactive tab icon style -->
+    <style name="TextAppearance.BottomNavigationView.Inactive">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <!-- active tab icon style -->
+    <style name="TextAppearance.BottomNavigationView.Active">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+
+</resources>

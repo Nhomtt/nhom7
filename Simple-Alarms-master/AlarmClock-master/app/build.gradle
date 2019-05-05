@@ -1,0 +1,54 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "com.example.alarmdemo"
+        minSdkVersion 21
+        targetSdkVersion 28
+        // Enabling multidex support.
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary = true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    /* I use Data Binding and Java8 in all my projects */
+    dataBinding {
+        enabled true
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    dexOptions {
+        maxProcessCount 2
+        javaMaxHeapSize "4g"
+        preDexLibraries false
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    def version_appcompat = "1.1.0-alpha04"
+    def version_constraint_layout = '2.0.0-alpha5'
+    def version_multidex = "2.0.1"
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation "androidx.appcompat:appcompat:$version_appcompat"
+    implementation "androidx.constraintlayout:constraintlayout:$version_constraint_layout"
+    implementation "androidx.multidex:multidex:$version_multidex"
+    implementation "androidx.recyclerview:recyclerview:$version_appcompat"
+    /*Lib Gson*/
+    def version_gson = "2.8.2"
+    api "com.google.code.gson:gson:$version_gson"
+
+}

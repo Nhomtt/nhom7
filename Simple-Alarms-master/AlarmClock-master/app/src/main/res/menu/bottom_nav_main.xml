@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/word"
+        android:contentDescription="@string/cd_word_clock"
+        android:icon="@drawable/ic_language_black_24dp"
+        android:title="@string/title_word_clock" />
+    <item
+        android:id="@+id/alarm"
+        android:contentDescription="@string/cd_group"
+        android:icon="@drawable/ic_access_alarm_black_24dp"
+        android:title="@string/title_alarm" />
+    <item
+        android:id="@+id/stop"
+        android:contentDescription="@string/cd_stopwatch"
+        android:icon="@drawable/ic_stopwatch"
+        android:title="@string/title_stopwatch" />
+    <item
+        android:id="@+id/timer"
+        android:contentDescription="@string/cd_timer"
+        android:icon="@drawable/ic_countdown"
+        android:title="@string/title_countdown" />
+    <item
+        android:id="@+id/profile"
+        android:contentDescription="@string/cd_profile"
+        android:icon="@drawable/ic_person_outline_black_24dp"
+        android:title="@string/title_profile" />
+</menu>
