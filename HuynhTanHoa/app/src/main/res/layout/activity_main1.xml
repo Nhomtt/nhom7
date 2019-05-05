@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="?pageBackground"
+    tools:context=".MainActivity1">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nhan chon de thay doi giao dien"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:id="@+id/tvHeader"
+        style="?textSubheader"
+        />
+    <Spinner
+        android:id="@+id/spThemes"
+        style="?spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvSelectTheme"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="@dimen/spinner_margin_left"
+        android:layout_toRightOf="@+id/tvSelectTheme"
+        android:entries="@array/theme_array"
+        android:spinnerMode="dropdown" />
+
+    <android.support.v7.widget.RecyclerView
+
+        android:id="@+id/rvKieu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        style="?textRegular">
+
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="EXT1"
+        android:id="@+id/ext1"
+        app:showAsAction="always"
+        />
+    <item android:title="EXT2"
+        android:id="@+id/ext2"
+        app:showAsAction="always"
+        />
+
+    <item android:title="EXT3"
+        android:id="@+id/ext3"
+        app:showAsAction="always"
+        />
+
+    <item android:title="EXT4"
+        android:id="@+id/ext4"
+        app:showAsAction="always"
+        />
+    <item android:title="EXT5"
+        android:id="@+id/ext5"
+        app:showAsAction="always"
+        />
+
+</menu>

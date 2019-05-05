@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+android:interpolator="@android:anim/linear_interpolator"
+android:ordering="together" >
+
+<objectAnimator
+    android:duration="10000"
+    android:propertyName="x"
+    android:repeatCount="infinite"
+    android:repeatMode="restart"
+    android:valueTo="-300dp"
+    android:valueType="floatType" />
+
+<objectAnimator
+    android:duration="2000"
+    android:propertyName="y"
+    android:repeatCount="infinite"
+    android:repeatMode="reverse"
+    android:valueTo="70dp"
+    android:valueType="floatType" />
+
+</set>
