@@ -1,0 +1,10 @@
+<resources>
+
+    <!--ADD NEW SCREEN-->
+    <string name="app_name">SVTour</string>
+    <string name="them">Thêm mới</string>
+    <string name="nhap">Nhập tiêu đề....</string>
+    <string name="huy">Hủy</string>
+    <string name="tt">Tiếp Tục</string>
+
+</resources>
