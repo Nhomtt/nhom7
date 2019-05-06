@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\raw_sound.ogg.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\raw\\sound.ogg"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_schedule_time.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\layout\\layout_schedule_time.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_menu.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\layout\\layout_menu.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_count_time.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\layout\\layout_count_time.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_button_reset.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable\\background_button_reset.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_button_stop.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable\\background_button_stop.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_tab2.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable\\background_tab2.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_button_start.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable\\background_button_start.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_current_time.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\layout\\layout_current_time.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_textview_current_time.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable\\background_textview_current_time.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_tab1.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable\\background_tab1.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style_circle_fill.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable\\style_circle_fill.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_clock.png.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable\\ic_clock.png"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_button_reset_false.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable\\background_button_reset_false.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_info_time.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable\\background_info_time.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_item.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\dd2\\SmartClock-master3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

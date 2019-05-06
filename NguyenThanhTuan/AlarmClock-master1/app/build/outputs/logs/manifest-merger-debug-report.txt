@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:8:6-81
+	android:name
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:8:23-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:9:6-68
+	android:name
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:9:23-66
+application
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:11:5-37:19
+	android:label
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.alarmdemo.MainActivity
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.alarmdemo.AlarmScreen
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:26:9-69
+	android:name
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:26:19-67
+activity#com.example.alarmdemo.AlarmDetailsActivity
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:27:9-79
+	android:name
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:27:19-76
+service#com.example.alarmdemo.AlarmService
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:29:9-30:38
+	android:enabled
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:30:13-35
+	android:name
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:29:18-67
+receiver#com.example.alarmdemo.AlarmManagerHelper
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:32:9-36:20
+	android:name
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:32:19-74
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:33:4-35:20
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:34:8-69
+	android:name
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml:34:16-67
+uses-sdk
+INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+		ADDED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AlarmClock-master1\app\src\main\AndroidManifest.xml

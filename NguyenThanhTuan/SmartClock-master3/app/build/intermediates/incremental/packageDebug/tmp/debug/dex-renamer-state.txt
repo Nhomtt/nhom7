@@ -1,0 +1,4 @@
+#Wed May 01 17:23:36 ICT 2019
+base.0=D\:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

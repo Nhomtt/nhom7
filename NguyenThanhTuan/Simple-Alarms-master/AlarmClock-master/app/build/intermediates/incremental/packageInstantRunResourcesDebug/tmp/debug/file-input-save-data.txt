@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun May 05 23:12:43 ICT 2019
+0.baseType=DIRECTORY
+0.base=D\:\\Simple-Alarms-master\\AlarmClock-master\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.path=fonts/DigitalDismay.otf
+0.set=ASSET
+count=1

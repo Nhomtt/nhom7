@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Clock</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="current_time">Clock</string>
+    <string name="schedule_time">Timer</string>
+    <string name="count_time">Stopwatch</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="lap">Lap</string>
+    <string name="continue_time">Continue</string>
+    <string name="reset">Reset</string>
+    <string name="textview_count_time">00:00:00</string>
+    <string name="colon">:</string>
+    <string name="two_zero">00</string>
+    <string name="time_percent">.00</string>
+    <string name="ok">OK</string>
+
+</resources>

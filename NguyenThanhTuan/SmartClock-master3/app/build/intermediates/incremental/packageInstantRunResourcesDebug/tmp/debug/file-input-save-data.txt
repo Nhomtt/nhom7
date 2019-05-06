@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed May 01 17:23:02 ICT 2019
+0.baseType=DIRECTORY
+0.base=D\:\\dd2\\SmartClock-master3\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.path=fonts/DigitalDismay.otf
+0.set=ASSET
+count=1

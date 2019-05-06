@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AlarmClock-master1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\AlarmClock-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "D:\\AlarmClock-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,5,14,15,12,8,6,13,7,11,9,10,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,156,644,702,540,328,214,590,278,486,378,430,103",
+                        "endColumns": "46,57,57,75,49,49,63,53,49,53,51,55,52",
+                        "endOffsets": "98,209,697,773,585,373,273,639,323,535,425,481,151"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,216,274,332,408,458,508,572,626,676,730,782,838",
+                        "endColumns": "46,57,57,75,49,49,63,53,49,53,51,55,52",
+                        "endOffsets": "211,269,327,403,453,503,567,621,671,725,777,833,886"
+                    }
+                },
+                {
+                    "source": "D:\\AlarmClock-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,19",
+                        "startColumns": "4,4,5",
+                        "startOffsets": "186,511,677",
+                        "endLines": "12,17,23",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "473,666,901"
+                    },
+                    "to": {
+                        "startLines": "17,24,27",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "891,1182,1342",
+                        "endLines": "23,26,31",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1177,1337,1566"
+                    }
+                }
+            ]
+        }
+    ]
+}

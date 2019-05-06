@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_details.xml",
+        "source": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_alarm.xml",
+        "source": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\fragment_alarm.xml"
+    },
+    {
+        "merged": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_stop_watch.xml",
+        "source": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\fragment_stop_watch.xml"
+    },
+    {
+        "merged": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_timer.xml",
+        "source": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\fragment_timer.xml"
+    },
+    {
+        "merged": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_word_clock.xml",
+        "source": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\fragment_word_clock.xml"
+    },
+    {
+        "merged": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Simple-Alarms-master\\AlarmClock-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

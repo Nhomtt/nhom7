@@ -1,0 +1,42 @@
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:background="@android:color/white"
+    android:gravity="bottom" >
+
+    <Button
+        android:id="@+id/btnCurrentTime"
+        style="@android:style/ButtonBar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/background_tab1"
+        android:singleLine="true"
+        android:text="@string/current_time"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnScheduleTime"
+        style="@android:style/ButtonBar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/background_tab2"
+        android:singleLine="true"
+        android:text="@string/schedule_time"
+        android:textColor="@color/blue_a700" />
+
+    <Button
+        android:id="@+id/btnCountTime"
+        style="@android:style/ButtonBar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/background_tab2"
+        android:singleLine="true"
+        android:text="@string/count_time"
+        android:textColor="@color/blue_a700" />
+
+</TableRow>
